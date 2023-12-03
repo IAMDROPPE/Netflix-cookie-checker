@@ -1,9 +1,9 @@
 
-# Netflix Cookie Checker
+#Netflix Cookie Checker
 
-**Comprueba la validez de las cookies.**
+**Checks the validity of cookies.**
 
-*<b>Sólo con fines educativos. </b>*<br><br>
+*<b>For educational purposes only. </b>*<br><br>
 
 # Instalación
 
@@ -13,13 +13,16 @@
   pip install -r requirements.txt
 ```
 # Uso
-1. Si las cookies pertenecen a cuentas diferentes, deben estar separadas y cada una con la extensión “.txt”.
-2. Las cookies deben estar en formato Netscape.
-3. Coloca todas tus cookies con extensión .txt dentro de la carpeta “cookies”.
-4. Asegúrate de tener una buena conexión a Internet.
-5. Instala las dependencias utilizando el comando pip install -r requirements.txt.
-6. Ejecuta cookies_checker.py.
-7. Ante cualquier problema, comunícate en <a href="https://t.me/indexdpp">t.me/indexdpp</a>
+1. If the cookies belong to different accounts, they must be separate and each with the extension “.txt”.
+2. Cookies must be in Netscape format.
+3. Place all your cookies with a .txt extension inside the “cookies” folder.
+4. Make sure you have a good Internet connection.
+5. Install the dependencies using the pip install -r requirements.txt command.
+6. Run cookies_checker.py.
+7. If you have any problem, contact <a href="https://t.me/indexdpp">t.me/indexdpp</a>
+
+# Note
+**This project is open to improvements. If you have suggestions or improvements, feel free to fork this repository, make your changes, and propose a pull request. Your contribution will be appreciated**
 
 # You can help me by Donating
   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y1RRZOM)
